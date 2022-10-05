@@ -1,0 +1,8 @@
+.env
+node_modules
+functions
+googlepassport.js
+.firebaserc
+firebase.json
+.firebase
+package-lock.json
